@@ -25,12 +25,14 @@ The materials have not yet been thoroughly vetted. If you spot any errors or con
 - [Reading list](readings/reading_list.pdf)
 
 ## Omissions
-The course currently does not cover the following important topics, though that may change in the future:
+This course does *not* cover the following important topics:
 - Basic introduction to dynamic causal effects and local projections
 - Introduction to structural VARs
 - Panel data
 - Nonlinear specifications
 - Weak instruments
+
+My quarter-length course "[Econometric Methods for Macroeconomics](https://github.com/mikkelpm/macro_econometrics)" covers some of these topics.
 
 ## Acknowledgements
 This material is based upon work supported by the NSF under [Grant #2238049](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238049) and by the Alfred P. Sloan Foundation.
